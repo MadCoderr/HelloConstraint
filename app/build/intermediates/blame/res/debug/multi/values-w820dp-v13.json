@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\GoogleAndroidCcourse\\Lesson 1\\HelloConstraint\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\GoogleAndroidCcourse\\Lesson 1\\HelloConstraint\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 57,
+                        "endOffset": 945
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Google Associate Android developer course\\Solution Projects\\android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714\\HelloConstraint\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\Google Associate Android developer course\\Solution Projects\\android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714\\HelloConstraint\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 57,
+                        "endOffset": 945
+                    }
+                }
+            }
+        ]
+    }
+]

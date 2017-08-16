@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Farooqi\.android\build-cache\2754331ca46156aa579fe2553006d6485555f62b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="D:\GoogleAndroidCcourse\Lesson 1\HelloConstraint\app\build\intermediates\pre-dexed\debug\classes_4387e4d8312d130d65b96d91a255e0d3cb229b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Farooqi\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="D:\GoogleAndroidCcourse\Lesson 1\HelloConstraint\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.1_f738fe14a50793138cd08d12d4e9c888914cd12f.jar" />
+    </item>
+
+</items>

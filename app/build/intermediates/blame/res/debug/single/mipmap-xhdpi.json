@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\GoogleAndroidCcourse\\Lesson 1\\HelloConstraint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\GoogleAndroidCcourse\\Lesson 1\\HelloConstraint\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Google Associate Android developer course\\Solution Projects\\android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714\\HelloConstraint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\Google Associate Android developer course\\Solution Projects\\android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714\\HelloConstraint\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
